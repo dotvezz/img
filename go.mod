@@ -1,1 +1,1 @@
-module img
+module github.com/dotvezz/img
